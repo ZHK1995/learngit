@@ -3,3 +3,4 @@ Git is good.
 Git is useful.
 git is new for me.
 git is new for you.
+git is new.
