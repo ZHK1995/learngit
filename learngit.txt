@@ -6,3 +6,4 @@ git is new for you.
 git is new.
 git is old.
 git is change.
+new git 1;
